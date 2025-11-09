@@ -1,10 +1,6 @@
 # 📐 Area and Volume Calculator - 2D & 3D Shapes
 
-https://img.shields.io/badge/C-Programming-blue
-https://img.shields.io/badge/Type-Math%20Calculator-orange
-https://img.shields.io/badge/Category-Education-green
-
-A collection of C programs for calculating areas of 2D shapes, volumes of 3D shapes, and a special program to capture your programming passion!
+A collection of C programs for calculating areas of 2D shapes, volumes of 3D shapes, and a special program to capture your passion (like coder, or something else)!
 
 ## 📖 Project Overview
 
