@@ -15,4 +15,6 @@ This repository contains C programs designed to help students and developers und
 
 💝 Special Program
 
-#### · `input_passion.c` - Captures and displays your passion for programming
+#### · `input_passion.c` - Captures and displays your passion for programming. 
+
+#### • `divisibility_check.c` - It checks the number, divisible or not. 
