@@ -17,4 +17,12 @@ This repository contains C programs designed to help students and developers und
 
 #### · `input_passion.c` - Captures and displays your passion for programming. 
 
-#### • `divisibility_check.c` - It checks the number, divisible or not. 
+#### · `divisibility_check.c` - It checks the number, divisible or not. 
+
+#### `celsius.c`
+
+· 🌡️ Temperature Conversion - Converts Celsius to Fahrenheit
+· 🔢 Precision Calculation - Accurate floating-point operations
+· ✅ Input Validation - Handles invalid user inputs gracefully
+· 📊 Formula Implementation - Implements standard conversion formula
+· 🎯 User-Friendly Interface - Clean and intuitive user experience
