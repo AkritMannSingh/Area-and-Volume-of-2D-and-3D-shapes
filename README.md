@@ -1,4 +1,4 @@
-# 📐 Area and Volume Calculator - 2D & 3D Shapes
+# ©️ C Code Snippets 
 
 A collection of C programs for calculating areas of 2D shapes, volumes of 3D shapes, and a special program to capture your passion (like coder, or something else)!
 
