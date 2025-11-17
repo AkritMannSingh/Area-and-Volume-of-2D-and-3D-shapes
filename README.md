@@ -33,3 +33,12 @@ This repository contains C programs designed to help students and developers und
 ##### · 📝 Marks Input - Accepts student marks as input
 ##### · 🎓 Grade Calculation - Converts numerical marks to letter grades (A, B, C, D, F)
 ##### · ✅ Pass/Fail Determination - Automatically determines pass or fail status
+
+#### `pass_fail.c`
+
+##### · 📊 Marks Analysis - Comprehensive evaluation of obtained marks
+##### · 🎯 Pass/Fail Determination - Clear result declaration based on passing criteria
+##### · 📈 Performance Insights - Detailed description of performance level
+##### · 💡 Improvement Suggestions - Constructive feedback for failed cases
+##### · 📋 Multiple Subjects Support - Can handle multiple subject marks (if implemented)
+##### · ⚙️ Customizable Threshold - Configurable passing marks criteria
