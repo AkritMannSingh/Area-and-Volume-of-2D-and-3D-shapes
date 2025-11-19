@@ -42,3 +42,9 @@ This repository contains C programs designed to help students and developers und
 ##### · 💡 Improvement Suggestions - Constructive feedback for failed cases
 ##### · 📋 Multiple Subjects Support - Can handle multiple subject marks (if implemented)
 ##### · ⚙️ Customizable Threshold - Configurable passing marks criteria
+
+#### `tax_calc.c`
+
+##### · 📊 Income Analysis - Calculates tax based on income slabs
+##### · 💰 Tax Slab Processing - Applies appropriate tax rates to different income segments
+##### · 🧾 Detailed Breakdown - Shows tax calculation for each income slab separately
